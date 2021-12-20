@@ -4,7 +4,6 @@ This blog containts portfolio of my research projects presented in the form of i
 
 The python packages for different developed algorithms presented here are still not available for public.
 
-[Link to another page](./another-page.html).
 
 # Multi-Objective Optimal Power Flow (OPF) for Radial Distribution Grid
 
@@ -12,7 +11,9 @@ The python packages for different developed algorithms presented here are still 
 
 In this project, I developed a multi-objective opf algorithm by adapting a second-order conic programming (SOCP) convex relaxation. The developed algorithm can also be used to solve a conventional load-flow problem. 
 
-The proposed algorithm shows
+The proposed algorithm shows a signficant computational speed improvement compared to commercial solver and higher accuracy compared to the conventional OPF techniques i.e., linear/DC load flow.
+
+**Publication:** _**M. A. Putratama**_, R. Rigo-Mariani, V. Debusschere and Y. Besanger, "_Parameter Tuning for LV Centralized and Distributed Voltage Control with High PV Production_," 2021 IEEE Madrid PowerTech, 2021, pp. 1-6. ([Link to publication](https://doi.org/10.1109/PowerTech46648.2021.9494802)).
 
 ## Header 2
 

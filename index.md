@@ -1,4 +1,3 @@
----
 # Research Highlights
 ---
 This blog containts portfolio of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on the button ![iPython](https://img.shields.io/badge/Jupyter-Notebook-orange).

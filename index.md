@@ -7,9 +7,13 @@ The python packages for different developed algorithms presented here are still 
 
 [Link to another page](./another-page.html).
 
-# Multi-Objective Optimal Power Flow for Radial Distribution Grid
+# Multi-Objective Optimal Power Flow (OPF) for Radial Distribution Grid
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](./another-page.html)
+
+In this project, I developed a multi-objective opf algorithm by adapting a second-order conic programming (SOCP) convex relaxation. The developed algorithm can also be used to solve a conventional load-flow problem. 
+
+The proposed algorithm shows
 
 ## Header 2
 

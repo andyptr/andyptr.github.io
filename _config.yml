@@ -2,7 +2,18 @@ title: <p align="center"> Andy Putratama </p>
 
 logo: "/image/image_round.png?raw=true"
 
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/andyptr/">LinkedIn</a> |
+  <a href="https://github.com/andyptr">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am a power system researcher in the G2ELab, France.
+  <br><br>
+  Research area: power systems modeling, operational management and design.
+  <br><br>
+  </p>
+
+google_analytics: 297362505
 theme: jekyll-theme-minimal

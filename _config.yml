@@ -1,5 +1,7 @@
-title: Minimal theme
-logo: /assets/img/logo.png
+title: <p align="center"> Andy Putratama </p>
+
+logo: "/image/image_round.png?raw=true"
+
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:

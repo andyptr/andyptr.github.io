@@ -1,16 +1,13 @@
 ---
 # Research Highlights
 ---
+This blog containts portfolio of my research projects presented in the form of iPython Notebooks. 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+The python packages for different developed algorithms presented here are still not available for public.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
+# Multi-Objective Optimal Power Flow for Radial Distribution Grid
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 

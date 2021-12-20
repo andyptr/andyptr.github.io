@@ -1,6 +1,6 @@
 # Research Highlights
 ---
-Hi :wave: ! This blog containts the insight of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Notebook-orange).
+This blog contains the insight of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Notebook-orange).
 
 The python packages for different developed algorithms presented here are still not available for public.
 

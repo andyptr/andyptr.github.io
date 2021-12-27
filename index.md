@@ -1,6 +1,6 @@
 # Research Highlights
 ---
-This blog contains the insight of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter).
+<div style="text-align: justify">This blog contains the insight of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter). </div>
 
 
 ## 1) Multi-Objective Optimal Power Flow (OPF) for Radial Distribution Grid

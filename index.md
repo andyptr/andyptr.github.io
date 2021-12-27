@@ -5,7 +5,7 @@ This blog contains the insight of my research projects presented in the form of 
 
 ## 1) Multi-Objective Optimal Power Flow (OPF) for Radial Distribution Grid
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](./another-page.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](Projects/01_OPF_Multi_Objective.html)
 
 In this project, I developed a multi-objective opf algorithm by adapting a second-order conic programming (SOCP) convex relaxation. The developed algorithm can also be used to solve a conventional load-flow problem. 
 

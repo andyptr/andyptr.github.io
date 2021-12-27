@@ -11,10 +11,12 @@ In this project, I developed a multi-objective opf algorithm by adapting a secon
 
 The proposed algorithm shows a signficant computational speed improvement compared to commercial solver and higher accuracy compared to the conventional OPF techniques i.e., linear/DC load flow.
 
-**Publication:** _**M. A. Putratama**_, R. Rigo-Mariani, V. Debusschere and Y. Besanger, "_Parameter Tuning for LV Centralized and Distributed Voltage Control with High PV Production_," 2021 IEEE Madrid PowerTech, 2021, pp. 1-6. ([Link to publication](https://doi.org/10.1109/PowerTech46648.2021.9494802)).
-
-
 <center><img src="Projects/images/01/OPF.png"/></center>
+
+
+**Related publication:** _**M. A. Putratama**_, R. Rigo-Mariani, V. Debusschere and Y. Besanger, "_Parameter Tuning for LV Centralized and Distributed Voltage Control with High PV Production_," 2021 IEEE Madrid PowerTech, 2021, pp. 1-6. ([Link to publication](https://doi.org/10.1109/PowerTech46648.2021.9494802)).
+
+
 
 ## Header 2
 

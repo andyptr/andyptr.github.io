@@ -1,11 +1,11 @@
 # Research Highlights
 ---
-This blog contains the insight of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Notebook-orange).
+This blog contains the insight of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter).
 
 
 ## 1) Multi-Objective Optimal Power Flow (OPF) for Radial Distribution Grid
 
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)](Projects/01_OPF_Multi_Objective.html)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)](Projects/01_OPF_Multi_Objective.html)
 
 In this project, I developed a multi-objective opf algorithm by adapting a second-order conic programming (SOCP) convex relaxation. The developed algorithm can also be used to solve a conventional load-flow problem. 
 

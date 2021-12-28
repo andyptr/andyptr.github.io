@@ -18,7 +18,7 @@ The proposed algorithm shows a signficant computational speed improvement compar
 
 ---
 
-## 2) From Centralized to Distributed Control Architecture for Distribution Grid
+## 2) Centralized, Decentralized and Distributed Control Architecture for Distribution Grid
 
 > This is a blockquote following a header.
 >

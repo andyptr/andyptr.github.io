@@ -13,7 +13,10 @@ This blog contains the insight of my research projects presented in the form of 
 
 <div style="text-align: justify">In this project, I developed a multi-objective opf algorithm by adapting a second-order conic programming (SOCP) convex relaxation. The developed algorithm can also be used to solve a conventional load-flow problem. 
 
-The proposed algorithm shows a signficant computational speed improvement compared to commercial solver and higher accuracy compared to the conventional OPF techniques i.e., linear/DC load flow.</div>
+The proposed algorithm shows a signficant computational speed improvement compared to commercial solver and higher accuracy compared to the conventional OPF techniques i.e., linear/DC load flow.
+
+</div>
+
 
 <center><img src="Projects/images/01/OPF.png"/></center>
 

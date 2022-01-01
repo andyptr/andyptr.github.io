@@ -42,7 +42,7 @@ The objective of this project is to transform the centralized controller that ha
 Therefore in this project, I developed a **distribution algorithm** that can solve a centralized optimization problem into distributed and decentralized problem, allowing transformation of the proposed centralized controller introduced in the previous project into distribtued and decentralized controller.
 
 
-<center><img src="Projects/images/01/OPF.png"/></center>
+<center><img src="Projects/images/02/02_thumbnail.png"/></center>
 
 
 **Related publication:** 
@@ -62,7 +62,7 @@ Most of power system projects require grid data in order to properly identify an
 In this project, I developed a model fitting alogrithm to estimate grid data (line impedance values) using historic measurment data. The proposed algorithm can effectively improve the accuracy of the estimated data. The proposed algorithm then can be utilized in many projects, for instance power system planning studies,  controller developments, local energy market management and any other projects that require grid data.
 
 
-<center><img src="Projects/images/01/OPF.png"/></center>
+<center><img src="Projects/images/03/03_thumbnail.png"/></center>
 
 
 **Related publication:** One article is still under publication process.
@@ -79,7 +79,7 @@ The growth of prosumers owned DERs has been continously increasing. This phenome
 
 This work in particular, I focus on energy community, where prosumers are group together to form a community that can trade and exchange energy within each other. To that end, I developed a market strategy for an energy community that can ensure prosumers cost reduction while maintaining the grid operation within its technical constraints. In the simulation, the proposed strategy shows an average of 20% prosumers cost reduction and any voltage violation in the real-time operation can be mitigated.
 
-<center><img src="Projects/images/01/OPF.png"/></center>
+<center><img src="Projects/images/04/04_thumbnail.png"/></center>
 
 
 **Related publication:** One article is still under publication process, now currently on the second round of review.

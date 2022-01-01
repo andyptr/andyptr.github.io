@@ -5,8 +5,10 @@
 
   
   
-<div style="text-align: justify">This page contains some insight of my current research projects as a power system researcher. The projects are presented in the form of iPython Notebooks. You can access them by clicking </div>   ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter) 
+<div style="text-align: justify">This page contains some insight of my current research projects as a power system researcher. The projects are presented in the form of iPython Notebooks. You can access them by clicking <img src="https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter"/>  </div> 
 
+
+![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)
 
 
 

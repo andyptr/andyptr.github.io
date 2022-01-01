@@ -3,9 +3,9 @@
 <div style="text-align: justify">
   
 ### Hi 👋
-  
-This blog contains the insight of my research projects presented in the form of iPython Notebooks. For each project, the iPython Notebooks can be accessed by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter).
 
+This page contains some insight of my current research projects as a power system researcher. The projects are presented in the form of iPython Notebooks. You can access them by clicking on ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)
+  
 </div>
 
 
@@ -13,7 +13,9 @@ This blog contains the insight of my research projects presented in the form of 
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)](Projects/01_OPF_Multi_Objective.html)
 
-<div style="text-align: justify">In this project, I developed a multi-objective opf algorithm by adapting a second-order conic programming (SOCP) convex relaxation. The developed algorithm can also be used to solve a conventional load-flow problem. 
+<div style="text-align: justify">
+  
+In this project, I developed a multi-objective opf algorithm by adapting a second-order conic programming (SOCP) convex relaxation. The developed algorithm can also be used to solve a conventional load-flow problem. 
 
 The proposed algorithm shows a signficant computational speed improvement compared to commercial solver and higher accuracy compared to the conventional OPF techniques i.e., linear/DC load flow.
 

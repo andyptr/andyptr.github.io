@@ -46,8 +46,9 @@ Therefore in this project, I developed a **distribution algorithm** that can sol
 
 
 **Related publication:** 
-1) **M. A. Putratama**, R. Rigo-Mariani, V. Debusschere and Y. Besanger, "_Parameter Tuning for LV Centralized and Distributed Voltage Control with High PV Production_," 2021 IEEE Madrid PowerTech, 2021, pp. 1-6. ([Link to publication](https://doi.org/10.1109/PowerTech46648.2021.9494802)).
-2) One article is still under publication process.
+- **M. A. Putratama**, R. Rigo-Mariani, V. Debusschere and Y. Besanger, "_Parameter Tuning for LV Centralized and Distributed Voltage Control with High PV Production_," 2021 IEEE Madrid PowerTech, 2021, pp. 1-6. ([Link to publication](https://doi.org/10.1109/PowerTech46648.2021.9494802)).
+
+- One article is still under publication process.
 
 
 ---

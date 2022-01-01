@@ -5,8 +5,9 @@
 
   
   
-<div style="text-align: justify">This page contains some insight of my current research projects as a power system researcher. The projects are presented in the form of iPython Notebooks. You can access them by clicking</div> ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)
-  
+<div style="text-align: justify">This page contains some insight of my current research projects as a power system researcher. The projects are presented in the form of iPython Notebooks. You can access them by clicking ![iPython](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter) 
+
+</div> 
 
 
 ## 1) Multi-Objective Optimal Power Flow (OPF) for Radial Distribution Grid

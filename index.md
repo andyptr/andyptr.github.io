@@ -28,7 +28,7 @@ Furthermore, a sensitivity analysis is also presented, which show how selection 
 
 ---
 
-## 2) Centralized, Decentralized and Distributed Control Architecture for Distribution Grid
+## 2) Centralized, Decentralized and Distributed Control Architectures for Distribution Grid
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-orange?logo=Jupyter)](Projects/02_Control_Architecture.html)
 
@@ -45,7 +45,7 @@ Therefore in this project, I developed a **distribution algorithm** that can sol
 <center><img src="Projects/images/02/02_thumbnail.png"/></center>
 
 
-**Related publication:** 
+**Related publications:** 
 - **M. A. Putratama**, R. Rigo-Mariani, V. Debusschere and Y. Besanger, "_Parameter Tuning for LV Centralized and Distributed Voltage Control with High PV Production_," 2021 IEEE Madrid PowerTech, 2021, pp. 1-6. ([Link to publication](https://doi.org/10.1109/PowerTech46648.2021.9494802)).
 
 - One article is still under publication process.

@@ -41,7 +41,7 @@ Furthermore, a sensitivity analysis is also presented, which show how selection 
 3. Computational sharing
 4. Limit information sharing (preserve prosumers' privacy)
 
-<div style="text-align: justify">Therefore in this project, I developed a **distribution algorithm** that can solve a centralized optimization problem into distributed and decentralized problem, allowing transformation of the proposed centralized controller introduced in the previous project into distribtued and decentralized controller.<br><br></div>
+<div style="text-align: justify">Therefore in this project, I developed a <b>distribution algorithm</b> that can solve a centralized optimization problem into distributed and decentralized problem, allowing transformation of the proposed centralized controller introduced in the previous project into distribtued and decentralized controller.<br><br></div>
 
 
 <center><img src="Projects/images/02/02_thumbnail.png"/></center>

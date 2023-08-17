@@ -1,0 +1,14 @@
+# main links links
+main:
+
+  - title: "Research & Project Highlights"
+    url: /highlights/
+
+  - title: "Publications & Conferences"
+    url: /publications/ 
+        
+  - title: "Blog"
+    url: /blog/
+    
+  - title: "Download My CV"
+    url: /files/Putratama_CV.pdf

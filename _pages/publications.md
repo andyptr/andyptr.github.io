@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Publications & Conferences"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my [Google Scholar](https://scholar.google.com/citations?user=pesoiO8AAAAJ&hl=en) profile.
+You can also find my latest publications on my [Google Scholar](https://scholar.google.com/citations?user=pesoiO8AAAAJ&hl=en) profile.
 
 ## Journal Publications
 
